@@ -1,0 +1,3 @@
+*.tmp
+Thumbs.db
+__pycache__/
