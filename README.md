@@ -4,3 +4,4 @@
 - Objetivo: Probar flujo de add y commit
 
 
+Este es el README de mi curso
