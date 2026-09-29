@@ -1,1 +1,1 @@
-Practica con un segundo branch temporal con archivo txt nuevo
+Segundo cambio a este archivo
