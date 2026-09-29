@@ -1,1 +1,6 @@
-Cambio hecho desde la rama main
+
+Cambio hecho en MAC linea original true legacy
+
+
+
+
