@@ -1,6 +1,6 @@
-# Curso_Github
-Repositorio para subir repos
-# Curso GitHub
+Archivo README.md del taller en GIT y Github
 
-Estoy aprendiendo Git y GitHub.
-Esta es una modificación desde mi rama feature-bio.
+Dia final del taller
+
+
+
